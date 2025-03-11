@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abhishek Srivastav (@srivastavabhishek936)
+# 👋 Hi, I'm Abhishek Srivastav.
 
 🎓 **Computer Science & Engineering Graduate** passionate about technology and coding. I’m currently diving into **Git** and **GitHub** to build strong foundations in version control and collaboration. As I kickstart my career, I’m excited to explore open-source projects, refine my **problem-solving skills**, and connect with others in tech!
 
